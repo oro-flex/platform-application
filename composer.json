@@ -1,0 +1,12 @@
+{
+    "name": "oro-flex/platform-application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita Makarov",
+            "email": "mesaverde228@gmail.com"
+        }
+    ],
+    "require": {}
+}
